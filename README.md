@@ -8,6 +8,12 @@ Android app for finding available parking spots using Google Maps.
   <img src="https://github.com/user-attachments/assets/140522c4-d9c4-494f-b81d-c63a51f347fa" width="222" height="426" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89d1f2ca-39af-4e4d-b214-a19f793780bb" width="30%" />
+  <img src="https://github.com/user-attachments/assets/a452a2c8-8d03-4fc8-bdb8-3f7e7626cb60" width="30%" />
+  <img src="https://github.com/user-attachments/assets/140522c4-d9c4-494f-b81d-c63a51f347fa" width="30%" />
+</p>
+
 
 ---
 
