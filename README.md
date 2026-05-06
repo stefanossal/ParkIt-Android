@@ -38,7 +38,6 @@ Android application for locating available parking spots through Google Maps int
 
 * View stored parking records
 * Access historical parking data
-* Firebase database integration for data storage
 
 ### 🎙️ Voice Navigation
 
@@ -59,6 +58,5 @@ Android application for locating available parking spots through Google Maps int
 * **Java**
 * **Google Maps API**
 * **Firebase Authentication**
-* **Firebase Realtime Database / Firestore**
+* **SQLite Database**
 * **Speech Recognition API**
-* **XML UI Design**
